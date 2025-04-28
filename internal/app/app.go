@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/sahilsh-dev/goApi/internal/api"
+	"github.com/sahilsh-dev/go-api/internal/api"
 )
 
 type Application struct {

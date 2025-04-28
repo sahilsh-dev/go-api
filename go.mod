@@ -1,4 +1,4 @@
-module github.com/sahilsh-dev/goApi
+module github.com/sahilsh-dev/go-api
 
 go 1.23.8
 

@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/sahilsh-dev/goApi/internal/app"
-	"github.com/sahilsh-dev/goApi/internal/routes"
+	"github.com/sahilsh-dev/go-api/internal/app"
+	"github.com/sahilsh-dev/go-api/internal/routes"
 )
 
 func main() {
